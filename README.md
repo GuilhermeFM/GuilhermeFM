@@ -7,4 +7,4 @@
 - 🏢 I'm currently working at **Inside Tecnologia**
 - ⚙️ I use daily: `c#`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **React** and **React Native**
-- ⚡️ Fun fact: None.. I'm boring  ¯\_(ツ)_/¯
+- ⚡️ Fun fact: None.. I'm boring  ¯\\_(ツ)_/¯

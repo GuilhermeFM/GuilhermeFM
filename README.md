@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Inside Tecnologia**
+- 🏢 I'm currently working at **Tribunal de Contas do Estado do Espirito Santo**
 - ⚙️ I use daily: `c#`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **React** and **React Native**
 - ⚡️ Fun fact: None.. I'm boring  ¯\\_(ツ)_/¯
